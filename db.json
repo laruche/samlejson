@@ -2,15 +2,45 @@
   "restaurants": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Blend Corder",
+      "city" : "Casablanca",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada ipsum id justo ultrices, vel commodo libero facilisis. Duis mattis pellentesque vulputate. (...)",
+      "logo" : "../assets/blend.jpg"
     },
     {
-      "id": 1,
-      "title": "hello"
+      "id": 2,
+      "title": "Blend Corder",
+      "city" : "Casablanca",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada ipsum id justo ultrices, vel commodo libero facilisis. Duis mattis pellentesque vulputate. (...)",
+      "logo" : "../assets/blend.jpg"
     },
     {
-      "id": 1,
-      "title": "hello"
+      "id": 3,
+      "title": "Blend Corder",
+      "city" : "Casablanca",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada ipsum id justo ultrices, vel commodo libero facilisis. Duis mattis pellentesque vulputate. (...)",
+      "logo" : "../assets/blend.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Blend Corder",
+      "city" : "Casablanca",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada ipsum id justo ultrices, vel commodo libero facilisis. Duis mattis pellentesque vulputate. (...)",
+      "logo" : "../assets/blend.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Blend Corder",
+      "city" : "Casablanca",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada ipsum id justo ultrices, vel commodo libero facilisis. Duis mattis pellentesque vulputate. (...)",
+      "logo" : "../assets/blend.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Blend Corder",
+      "city" : "Casablanca",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada ipsum id justo ultrices, vel commodo libero facilisis. Duis mattis pellentesque vulputate. (...)",
+      "logo" : "../assets/blend.jpg"
     }
   ],
   "profile": {
